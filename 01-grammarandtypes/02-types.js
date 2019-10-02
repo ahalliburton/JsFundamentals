@@ -1,4 +1,4 @@
-//Boolean
+;//Boolean
 //boolean can represent true/false; yes/no
 
 let i = true;
